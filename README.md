@@ -22,4 +22,4 @@ Responsiveness: The layout adapts to different devices, ensuring accessibility o
 Purpose:The portfolio demonstrates both technical ability and personal branding. It acts as a professional hub where employers, colleagues, or clients can quickly understand my capabilities and view my work.
 
 
-Repository contains Oasis infobyte web development 
+Repository containing my web development project submissions for the Oasis Infobyte Virtual Internship June 2026❗
